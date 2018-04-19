@@ -8,6 +8,7 @@ package thelongestminute;
 /**
  *
  * @author Anish.Anam
+ * @author Bradley.Blanchard
  */
 public class TheLongestMinute {
 
